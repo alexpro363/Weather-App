@@ -1,4 +1,3 @@
-# Weather-App
 Weather App for PM Accelerator Internship Technical Assessment.
 
 I created a weather app that pulls data from [openweather](https://openweathermap.org/api) using an API
